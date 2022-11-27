@@ -6,5 +6,5 @@ using static Library;
 int[] col = CreateArray(8);
 Console.WriteLine(PrintGood(col));
 Console.WriteLine();
-Fill(col, 1, 99);
+Fill(col, 1, 20);
 Console.WriteLine(PrintGood(col));
